@@ -30,13 +30,14 @@
 
 .bttn {
     margin-top: 10px;
-    background-color: darksalmon;
+    background-color: rgb(63, 61, 61);
     border-radius: 9px;
     border: 0;
-    width: 120px;
-    height: 30px;
+    width: 150px;
+    height: 60px;
     text-align: center;
     color: wheat;
+    font-size: 25px;
 }
 
 .cover-img {
@@ -88,6 +89,7 @@
     font-size: 40px;
     text-decoration: underline;
     margin-top: 20px;
+    padding-right: 15px;
 }
 
 #background-img-one {
@@ -164,6 +166,10 @@
     height: 400px;
     text-align: center;
     margin-top: 30px;
+}
+
+.discount {
+    color: rgb(231, 15, 15);
 }
 
 .offer-heading {
